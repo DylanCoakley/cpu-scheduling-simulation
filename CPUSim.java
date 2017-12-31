@@ -1,9 +1,5 @@
 
 //**********************************************************
-// Dylan Coakley                                                                                                  
-// CSCI-375 Operating Systems                                                                       
-// Programming Assignment #1
-//
 // This program implements and simulates the running of
 // 3 different CPU scheduling algoritms:
 //  1. FCFS (First Come First Serve)
@@ -36,5 +32,5 @@ public class CPUSim
             }
         }
     }
-    
+
 }
